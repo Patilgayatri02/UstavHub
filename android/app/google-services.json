@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "98526171172",
+    "project_id": "eventplanning-3ad3d",
+    "storage_bucket": "eventplanning-3ad3d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98526171172:android:0813edc0b2f48dd94688b1",
+        "android_client_info": {
+          "package_name": "com.example.main_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtnJnKjOrDs9lIEVjs-zDwNURJr34WTm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
